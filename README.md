@@ -1,5 +1,6 @@
 # sublime-settings
-My personal Sublime Text 3 settings. Move this file to your user settings folder (see Preferences > Settings).
+My personal Sublime Text 3 settings. Move Preferences.sublime-settings to your user settings folder
+(see Preferences > Settings).
 
 # Installed packages
 - [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
